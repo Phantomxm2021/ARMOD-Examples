@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!28 &2800000
+Texture2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: NincadaCard_light-0
+  m_ImageContentsHash:
+    serializedVersion: 2
+    Hash: ae95f631cf4c9846a0c2056ec2b2efe6
+  m_ForcedFallbackFormat: 4
+  m_DownscaleFallback: 0
+  m_IsAlphaChannelOptional: 1
+  serializedVersion: 2
+  m_Width: 32
+  m_Height: 32
+  m_CompleteImageSize: 768
+  m_MipsStripped: 0
+  m_TextureFormat: 32
+  m_MipCount: 6
+  m_IsReadable: 1
+  m_IsPreProcessed: 0
+  m_IgnoreMasterTextureLimit: 0
+  m_StreamingMipmaps: 1
+  m_StreamingMipmapsPriority: 0
+  m_VTOnly: 0
+  m_AlphaIsTransparency: 0
+  m_ImageCount: 1
+  m_TextureDimension: 2
+  m_TextureSettings:
+    serializedVersion: 2
+    m_FilterMode: 1
+    m_Aniso: 3
+    m_MipBias: 0
+    m_WrapU: 1
+    m_WrapV: 1
+    m_WrapW: 1
+  m_LightmapFormat: 1
+  m_ColorSpace: 1
+  m_PlatformBlob: 
+  image data: 768
+  _typelessdata: ffffffffc89830c6ffffffffed9830c6ffffffffe69830c6ffffefff30c630c6ffff8303089d31ca06010101e898eeb9efffffff4ab110c6aaaaaaff08a1efc197576757c694efbd4b03066f4aa9f0bddae95565c8988cb1e9bdfebec6948cb1fdfbffffc8988cb5a5a595ea28a18db900000000c798cebdaaeafaff08a14bad01015555c69408a1500050a5c69808a10000eafac698c798f9a9a565c698e79ca5995000c69c29a100000000e89810c6faeae900e698e89c00000000e89c30c60000afbfc698e79c4f535454e99cc69800555555a69429a555151515c69829a154945600e89ce69800000000e79c8eb115151510c69809a100000000e89c6aadbbfff9fc089d6bad38020100c69829a55f7f6b7f089d6bad5998a9f5e89c4ba900000000c6980aada9a9a9aae89c29a5eefadaef2aa96bad95aaaaaac6942aa9050174652aa56aada96a6faf849029a100000001c69810c201000104e89c30c6071b6b5e2084e89ca4540000a69429a515787070628c85906a150000a69429a5ffffffffc49c4aa9ffefafaf2aa54aadffffffff08a14aa9ff13a9656aad29a55f9f5b5b2aa56aad5a5a565a28a58cb1aa5655554aa92aa95555555509a18cb1ffffffffe49c4aa9ffffeae62aa94aa9ffffffffe6984aa9ffffffffc6984aa9ea266aa96aad29a55555555509a16bb1ffffffaa28a14aa955555555c8980dc6ffffffff4ba551cafff5a1a12aa110c6a657f7fbe8986bad0f0ba9a9c698aeb900000000c6986aad00000000e89c30c600000000e99c8cb500000000e798ceb9bfbd5090e89c6bade0f0a9a5c6982aa915191556648ceebd51026514428829a1fafaeaaa2aa54aa95555555509a56badffffffaa08a14aa955555555e798adb95f6f2e58e69c31ca00000000e89c30c215140405c698cfbd55555555c6980fc217065050e8a0efbd17065050e89c0fc617165050c69811c617165050c69830c633443344079dadb533443344e99cadb533443344e99cacb533443344e99cadb5555555552da968a9aaaaaaaa28a14badaaaaaaaa28a14badaa9a669a4aa94aa9
+  m_StreamData:
+    serializedVersion: 2
+    offset: 0
+    size: 0
+    path: 
